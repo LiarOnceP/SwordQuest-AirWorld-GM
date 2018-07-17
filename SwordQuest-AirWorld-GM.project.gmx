@@ -37,11 +37,11 @@
       <sprite>sprites\spr_footer</sprite>
       <sprite>sprites\spr_cloud</sprite>
       <sprite>sprites\spr_cloud2</sprite>
+      <sprite>sprites\spr_door</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <fonts name="fonts"/>
   <objects name="objects">
     <objects name="Logos">
       <object>objects\obj_game_logo</object>
