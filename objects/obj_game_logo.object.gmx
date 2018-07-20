@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>font = font_add("Roboto-Regular.ttf", 16, false, false, 32, 128);
+            <string>//font = font_add("Roboto-Regular.ttf", 26, false, false, 32, 128);
 alarm[0] = 10;
 </string>
           </argument>
@@ -55,6 +55,55 @@ alarm[0] = 10;
         </arguments>
       </action>
     </event>
+    <event eventtype="3" enumb="0">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if keyboard_check(vk_enter)
+{
+    room_goto_next();
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="7" enumb="4">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>font = font_add("Roboto-Regular.ttf", 36, false, false, 32, 128);
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
     <event eventtype="8" enumb="0">
       <action>
         <libid>1</libid>
@@ -74,7 +123,7 @@ alarm[0] = 10;
             <kind>1</kind>
             <string>draw_set_font(font);
 draw_self();
-draw_text(192, 384, "Press ENTER to start.");
+draw_text(256, 448, "Press ENTER to start.");
 </string>
           </argument>
         </arguments>

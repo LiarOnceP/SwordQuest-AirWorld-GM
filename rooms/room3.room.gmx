@@ -60,6 +60,8 @@
     <instance objName="obj_block_gray" x="1056" y="0" name="inst_1E6E4CA6" locked="0" code="" scaleX="3" scaleY="19" colour="4294967295" rotation="0"/>
     <instance objName="obj_block_gray" x="960" y="0" name="inst_4C561C36" locked="0" code="" scaleX="3" scaleY="4" colour="4294967295" rotation="0"/>
     <instance objName="obj_block_gray" x="352" y="0" name="inst_1B94C91A" locked="0" code="" scaleX="14" scaleY="4.12903213500977" colour="4294967295" rotation="0"/>
+    <instance objName="obj_invisible_true" x="800" y="0" name="inst_1E6E319B" locked="0" code="" scaleX="5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_player1" x="224" y="32" name="inst_A2033E1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
