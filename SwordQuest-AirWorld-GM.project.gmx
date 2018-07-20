@@ -55,6 +55,7 @@
       <objects name="Invisible">
         <object>objects\obj_invisible_true</object>
         <object>objects\obj_invisible_gameover</object>
+        <object>objects\obj_invisible_stop</object>
       </objects>
       <object>objects\obj_door</object>
     </objects>
