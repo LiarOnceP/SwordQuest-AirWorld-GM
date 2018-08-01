@@ -43,6 +43,14 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <scripts name="Main">
+      <script>scripts\scr_player_step.gml</script>
+      <script>scripts\scr_invisible.gml</script>
+      <script>scripts\scr_universal_scripts.gml</script>
+      <script>scripts\scr_logo.gml</script>
+    </scripts>
+  </scripts>
   <objects name="objects">
     <objects name="Logos">
       <object>objects\obj_game_logo</object>
