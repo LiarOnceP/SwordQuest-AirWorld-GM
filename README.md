@@ -8,7 +8,11 @@ SwordQuest:AirWorld ( GameMaker ver. )
 
 ## 参考资料
 
-（待补充）
+[http://atariage.com/forums/topic/13042-swordquest-airworld-screenshots-posted/page-3](http://atariage.com/forums/topic/13042-swordquest-airworld-screenshots-posted/page-3)
+
+[http://www.digitpress.com/faq/swordquest/swordquest_revisted.htm](http://www.digitpress.com/faq/swordquest/swordquest_revisted.htm)
+
+[https://www.bilibili.com/video/av26725241](https://www.bilibili.com/video/av26725241)
 
 ## TODO List
 
@@ -36,4 +40,4 @@ A： 稳定性更新，是的只有稳定性更新，除了进行小修小补，
 
 ## 引用相关
 
-（暂无）
+Font: [Roboto](https://github.com/google/roboto)
