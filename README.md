@@ -52,7 +52,7 @@ W上 A左 S下 D右
 
 Q1： 为什么又使用了 GameMaker Studio 2 制作？
 
-A： GameMaker: Studio 有外部编辑器 BUG，而且代码编辑器烂到不知道该怎么说好。
+A： GameMaker: Studio 有外部编辑器 BUG，而且代码编辑器烂到不知道该怎么说好，相比之下 GameMaker Studio 2 会好点，所以将项目从 GameMaker: Studio 升级为 GameMaker Studio 2 （ 真香.jpg ）。
 
 Q2： 为什么不用其他引擎？
 
