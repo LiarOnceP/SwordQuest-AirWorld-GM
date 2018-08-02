@@ -1,5 +1,5 @@
 {
-    "id": "d201cbc3-a33a-42ce-9356-515a8c269bbd",
+    "id": "c6a264bd-b6fe-47e6-a30a-ca8bee361e09",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "scr_invisible_true",
