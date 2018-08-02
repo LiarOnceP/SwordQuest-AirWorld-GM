@@ -7,7 +7,7 @@
     "option_windows_borderless": false,
     "option_windows_company_info": "LiarOnce Production",
     "option_windows_copy_exe_to_dest": false,
-    "option_windows_copyright_info": "LiarOnce Production",
+    "option_windows_copyright_info": "",
     "option_windows_description_info": "",
     "option_windows_display_cursor": true,
     "option_windows_display_name": "SwordQuest: AirWorld (LiarOnce Production)",
@@ -27,7 +27,7 @@
     "option_windows_splash_screen": "${options_dir}\\windows\\splash.png",
     "option_windows_start_fullscreen": false,
     "option_windows_texture_page": "2048x2048",
-    "option_windows_use_splash": true,
+    "option_windows_use_splash": false,
     "option_windows_version": {
         "build": 0,
         "major": 1,
