@@ -49,12 +49,14 @@
       <script>scripts\scr_invisible.gml</script>
       <script>scripts\scr_universal_scripts.gml</script>
       <script>scripts\scr_logo.gml</script>
+      <script>scripts\scr_game_info.gml</script>
     </scripts>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
-    <objects name="Logos">
-      <object>objects\obj_game_logo</object>
-    </objects>
+    <object>objects\obj_game_logo</object>
     <objects name="Maps">
       <object>objects\obj_block_gray</object>
       <object>objects\obj_footer</object>
@@ -71,6 +73,7 @@
       <object>objects\obj_player1</object>
       <object>objects\obj_player2</object>
     </objects>
+    <object>objects\obj_game_info</object>
   </objects>
   <rooms name="rooms">
     <rooms name="Game">
