@@ -21,7 +21,7 @@ W上 A左 S下 D右
 ## 系统要求
 
 |  | 最低配置 | 推荐配置 |
-| :---: | :--: | ----- |
+| :---: | :--: | :-----: |
 | 系统 | Windows Vista 32-bit，Mac OS X 10.6，Ubuntu 14.04 LTS 32-bit |Windows 10 64-bit，macOS 10.11，Ubuntu 18.04 64-bit|
 | 内存 | 2GB |2GB|
 | 显卡 | 无限制，支持 DirectX 11即可 |无限制，支持 DirectX 11即可|
