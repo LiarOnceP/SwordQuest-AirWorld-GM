@@ -1,0 +1,1 @@
+script_execute(scr_game_info,0,0,0,0,0)

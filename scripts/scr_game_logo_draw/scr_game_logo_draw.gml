@@ -1,4 +1,3 @@
 draw_set_font(font0);
-draw_self();
-draw_text(256, 448, string_hash_to_newline("Press ENTER to start."))
-
+draw_sprite(spr_Logo_1, 0, x, y);
+draw_text(256, 448, "Press ENTER to start.")
