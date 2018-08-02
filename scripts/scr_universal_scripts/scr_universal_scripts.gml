@@ -1,0 +1,2 @@
+//This is universal scripts
+

@@ -1,0 +1,14 @@
+macOS图标${options_dir}\mac\icons\icon512.png被写出为32位
+由于GameMaker Studio 2的改动，Windows NSIS 安装程序脚本被设为默认
+转换GML脚本: ${project_dir}\scripts\scr_player_step\scr_player_step.gml
+已转换字符串 - 第2行: 'W' → "W"
+已转换字符串 - 第7行: 'A' → "A"
+已转换字符串 - 第13行: 'S' → "S"
+已转换字符串 - 第18行: 'D' → "D"
+已转换字符串 - 第24行: 'W' → "W"
+已转换字符串 - 第29行: 'A' → "A"
+已转换字符串 - 第34行: 'S' → "S"
+已转换字符串 - 第39行: 'D' → "D"
+
+字体font0已被转换为字形体系Microsoft Sans Serif (Regular)——字体已重新生成，可能会发生细节冲突
+游戏速度被设置为30

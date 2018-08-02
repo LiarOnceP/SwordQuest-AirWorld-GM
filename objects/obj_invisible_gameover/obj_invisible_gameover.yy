@@ -1,0 +1,40 @@
+{
+    "id": "61f1c553-7568-4ebc-b41c-38291413d44c",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_invisible_gameover",
+    "eventList": [
+        {
+            "id": "ba7c7e51-ee92-459c-be75-644cecf54352",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "51e37b42-d599-458e-b959-fe4816b2e501",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "61f1c553-7568-4ebc-b41c-38291413d44c"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 0,
+    "physicsShapePoints": [
+        
+    ],
+    "physicsStartAwake": true,
+    "properties": null,
+    "solid": false,
+    "spriteId": "86fdfdb1-57c9-4187-8bdc-8eeacf1a8c84",
+    "visible": true
+}
