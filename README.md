@@ -29,7 +29,7 @@ W上 A左 S下 D右
 
 注意：
 
-1. Windows Vista 需安装 DirectX 11 补丁。
+1. Windows Vista 需安装 DirectX 11 （[KB971512](https://www.microsoft.com/zh-cn/download/details.aspx?id=3274) ）补丁。
 2. Ubuntu 需安装 `libopenal1` 依赖，其余发行版可通过包管理器搜索功能查找关键字安装，因为其余发行版可能在名称上有差异，如在 ArchLinux 中则被称为 `openal` 和 `lib32-openal`。
 3. 由于改用 GameMaker Studio 2，该编译版本不支持 Windows XP 系统。
 
